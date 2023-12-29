@@ -485,6 +485,17 @@ You can read the [Heroes Review Criteria and Scoring Matrix Guidelines](../Heroe
 - Social Media Links:
   - Telegram: `@tomraw`
   - LinkedIn: https://www.linkedin.com/in/tomas-rawski/
+  - 
+### Tony Ushe 
+
+<img src="./images/cryptotwilight.jpg" width="100"/>
+
+- Name: Tony 
+- Position: Blockchain Engineer 
+- Github Profile@ [cryptotwilight](https://github.com/cryptotwilight)
+- Social Media Links: 
+  - Discord: [coolt1](https://discord.gg/NCKW62f2EU)
+  - X: [TonyUshe](https://twitter.com/TonyUshe)
 
 ### Tugwa Chinenye Victor
 <img src="./images/victor.jpeg" width="100"/>
